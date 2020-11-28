@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Animate CSS
+@import '~animate.css/animate.css';
+
+.prueba{
+    background: #eee;
+}
+
+.card-body{
+    background: white;
+}
+
+.turbolinks-progress-bar {
+    height: 2px;
+    background-color: green;
+  }
